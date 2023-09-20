@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trynagetuserinputsfiguredout", "trynagetuserinputsfiguredout\trynagetuserinputsfiguredout.csproj", "{EC6E3884-7CD9-44FE-9D11-3DC5E7842416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6E3884-7CD9-44FE-9D11-3DC5E7842416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6E3884-7CD9-44FE-9D11-3DC5E7842416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6E3884-7CD9-44FE-9D11-3DC5E7842416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6E3884-7CD9-44FE-9D11-3DC5E7842416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF919213-7E8B-4AA6-9CAB-AE7E4835FB45}
+	EndGlobalSection
+EndGlobal
